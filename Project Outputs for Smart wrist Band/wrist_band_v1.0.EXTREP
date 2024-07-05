@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: wrist_band_v1.0.GBR   6/5/2024  2:35:45 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Layer 1                                 
+.G2                 Layer 3                                 
+.G3                 Layer 4                                 
+.G4                 Layer 2                                 
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM3                Board                                   
+.GM10               Mechanical 10                           
+.GM12               Mechanical 12                           
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
